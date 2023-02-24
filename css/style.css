@@ -1,0 +1,31 @@
+
+
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+nav {
+    box-shadow: none;
+
+} 
+ul li a {
+    margin-left: 100px;
+}
+
+.bt {
+    color: rgb(122, 122, 122);
+}
+
+
+.c1 .imc {
+    padding-right: 20px;
+}
+.c2 .imc {
+    padding-left: 20px;
+}
+
+.loadMore {
+    box-shadow: none;
+    border: 1px solid rgb(83, 83, 83);
+    color: rgb(83, 83, 83);
+}
